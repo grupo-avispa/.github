@@ -24,10 +24,20 @@ The group has developed several open-source projects that contribute to the fiel
 - **[mqtt_dsr_agent](https://github.com/grupo-avispa/mqtt_dsr_agent)**: DSR agent that communicates with MQTT brokers.
 - **[wasp_dsr_planner](https://github.com/grupo-avispa/wasp_dsr_planner)**: Behavior Tree (BT) planner with DSR.
 
+### Large Language Model / Agents
+
+- **[langgraph_base_ros](https://github.com/grupo-avispa/langgraph_base_ros)**: A ROS2 package providing an intelligent conversational agent framework for robots using language models (LLMs) and tools via the Model Context Protocol (MCP)
+- **[rag_ros](https://github.com/grupo-avispa/rag_ros)**: ROS 2 wrapper for Retrieval-Augmented Generation (RAG) systems.
+
 ### Perception
 
 - **[ros_perception_pipeline](https://github.com/grupo-avispa/ros_perception_pipeline)**: Collection of perception-related nodes and tools for ROS2.
 - **[depth_anything_v2_ros2](https://github.com/grupo-avispa/depth_anything_v2_ros2)**: ROS2 Wrapper for DepthAnything V2 model.
+- **[ip_camera_ros2](https://github.com/grupo-avispa/ip_camera_ros2)**: Generic ROS2 node for IP camera image publishing.
+
+### Sensors
+
+- **[gnss_air530z_uros](https://github.com/grupo-avispa/gnss_air530z_uros)**: Global Navigation System using micro-ros.
 
 ### Natural Language Understanding (NLU)
 
