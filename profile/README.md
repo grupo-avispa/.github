@@ -1,6 +1,6 @@
 # WASP Research Group
 
-The **WASP Research Group** is a research team at the **University of Málaga (UMA)** specializing in **social robotics** and **cognitive architectures**. Our main goal is to develop innovative technologies that enable robots to interact more naturally and effectively with humans, integrating advanced cognitive capabilities.
+The **[WASP Research Group](https://www.uma.es/avispa)** is a research team at the **University of Málaga (UMA)** specializing in **social robotics** and **cognitive architectures**. Our main goal is to develop innovative technologies that enable robots to interact more naturally and effectively with humans, integrating advanced cognitive capabilities.
 
 <!-- ## Research Areas
 
