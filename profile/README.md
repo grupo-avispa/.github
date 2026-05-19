@@ -38,6 +38,7 @@ The group has developed several open-source projects that contribute to the fiel
 ### Sensors
 
 - **[gnss_air530z_uros](https://github.com/grupo-avispa/gnss_air530z_uros)**: Global Navigation System using micro-ros.
+- **[imu_bmi160_uros](https://github.com/grupo-avispa/imu_bmi160_uros)**: IMU using micro-ros.
 
 ### Natural Language Understanding (NLU)
 
