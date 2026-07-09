@@ -2,12 +2,12 @@
 
 The **[WASP Research Group](https://www.uma.es/avispa)** is a research team at the **University of Málaga (UMA)** specializing in **social robotics** and **cognitive architectures**. Our main goal is to develop innovative technologies that enable robots to interact more naturally and effectively with humans, integrating advanced cognitive capabilities.
 
-<!-- ## Research Areas
+## Research Areas
 
 - **Social Robotics**: Design and implementation of robots capable of socially interacting with people in various environments, such as homes, hospitals, and public spaces.
 - **Cognitive Architectures**: Development of systems that provide robots with cognitive skills, such as reasoning, learning, and decision-making.
 - **Human-Robot Interaction (HRI)**: Study and improvement of interfaces and communication methods between robots and humans.
-- **Perception and Recognition**: Implementation of algorithms for visual, auditory, and tactile perception, as well as for recognizing human emotions and behaviors. -->
+- **Perception and Recognition**: Implementation of algorithms for visual, auditory, and tactile perception, as well as for recognizing human emotions and behaviors.
 
 ## Main repositories
 The group has developed several open-source projects that contribute to the field of social robotics and cognitive architectures. Some of our main repositories include:
@@ -54,3 +54,25 @@ The group has developed several open-source projects that contribute to the fiel
 The group actively collaborates with other universities, research centers, and technology companies to advance the field of social robotics and cognitive architectures.
 
 Join us in our mission to build smarter and more social robots!
+
+## Build Status
+
+| Package | Build |
+|---------|-------|
+| scitos2 | ![Build](https://github.com/grupo-avispa/scitos2/actions/workflows/build.yml/badge.svg) |
+| pioneer_ros2 | ![Build](https://github.com/grupo-avispa/pioneer_ros2/actions/workflows/build.yml/badge.svg) |
+| dsr_ros | ![Build](https://github.com/grupo-avispa/dsr_ros/actions/workflows/build.yml/badge.svg) |
+| dsr_aal | ![Build](https://github.com/grupo-avispa/dsr_aal/actions/workflows/build.yml/badge.svg) |
+| mqtt_dsr_agent | ![Build](https://github.com/grupo-avispa/mqtt_dsr_agent/actions/workflows/build.yml/badge.svg) |
+| wasp_dsr_planner | ![Build](https://github.com/grupo-avispa/wasp_dsr_planner/actions/workflows/build.yml/badge.svg) |
+| langgraph_base_ros | ![Build](https://github.com/grupo-avispa/langgraph_base_ros/actions/workflows/build.yml/badge.svg) |
+| rag_ros | ![Build](https://github.com/grupo-avispa/rag_ros/actions/workflows/build.yml/badge.svg) |
+| semantic_navigation | ![Build](https://github.com/grupo-avispa/semantic_navigation/actions/workflows/build.yml/badge.svg) |
+| ros_perception_pipeline | ![Build](https://github.com/grupo-avispa/ros_perception_pipeline/actions/workflows/build.yml/badge.svg) |
+| depth_anything_v2_ros2 | ![Build](https://github.com/grupo-avispa/depth_anything_v2_ros2/actions/workflows/build.yml/badge.svg) |
+| ip_camera_ros2 | ![Build](https://github.com/grupo-avispa/ip_camera_ros2/actions/workflows/build.yml/badge.svg) |
+| object_with_region | ![Build](https://github.com/grupo-avispa/object_with_region/actions/workflows/build.yml/badge.svg) |
+| gnss_air530z_uros | ![Build](https://github.com/grupo-avispa/gnss_air530z_uros/actions/workflows/build.yml/badge.svg) |
+| imu_bmi160_uros | ![Build](https://github.com/grupo-avispa/imu_bmi160_uros/actions/workflows/build.yml/badge.svg) |
+| rasa_ros | ![Build](https://github.com/grupo-avispa/rasa_ros/actions/workflows/build.yml/badge.svg) |
+| llm_interactions_msgs | ![](https://github.com/grupo-avispa/llm_interactions_msgs/actions/workflows/build.yml/badge.svg) |
