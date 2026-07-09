@@ -29,11 +29,16 @@ The group has developed several open-source projects that contribute to the fiel
 - **[langgraph_base_ros](https://github.com/grupo-avispa/langgraph_base_ros)**: A ROS2 package providing an intelligent conversational agent framework for robots using language models (LLMs) and tools via the Model Context Protocol (MCP)
 - **[rag_ros](https://github.com/grupo-avispa/rag_ros)**: ROS 2 wrapper for Retrieval-Augmented Generation (RAG) systems.
 
+### Navigation
+
+- **[semantic_navigation](https://github.com/grupo-avispa/semantic_navigation)**: A ROS metapackage for semantic navigation. Includes goals generation and semantic position services and Rviz plugin.
+
 ### Perception
 
 - **[ros_perception_pipeline](https://github.com/grupo-avispa/ros_perception_pipeline)**: Collection of perception-related nodes and tools for ROS2.
 - **[depth_anything_v2_ros2](https://github.com/grupo-avispa/depth_anything_v2_ros2)**: ROS2 Wrapper for DepthAnything V2 model.
 - **[ip_camera_ros2](https://github.com/grupo-avispa/ip_camera_ros2)**: Generic ROS2 node for IP camera image publishing.
+- **[object_with_region](https://github.com/grupo-avispa/object_with_region)**: ROS 2 package that enriches 3D object detections with semantic region information.
 
 ### Sensors
 
