@@ -45,8 +45,9 @@ The group has developed several open-source projects that contribute to the fiel
 - **[gnss_air530z_uros](https://github.com/grupo-avispa/gnss_air530z_uros)**: Global Navigation System using micro-ros.
 - **[imu_bmi160_uros](https://github.com/grupo-avispa/imu_bmi160_uros)**: IMU using micro-ros.
 
-### Natural Language Understanding (NLU)
+### Interaction / Natural Language Understanding (NLU)
 
+- **[nemo_ros](https://github.com/grupo-avispa/nemo_ros)**: ROS node for STT using NeMo Toolkit.
 - **[rasa_ros](https://github.com/grupo-avispa/rasa_ros)**: A ROS2 wrapper for Rasa NLU, enabling natural language understanding capabilities in robots.
 
 ## Collaborations
@@ -67,12 +68,13 @@ Join us in our mission to build smarter and more social robots!
 | wasp_dsr_planner | - | [![Build](https://github.com/grupo-avispa/wasp_dsr_planner/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/wasp_dsr_planner/actions/workflows/build.yml) |
 | langgraph_base_ros | ![ROS Jazzy](https://img.shields.io/badge/ros2-jazzy-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/langgraph_base_ros/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/langgraph_base_ros/actions/workflows/build.yml) |
 | rag_ros | ![ROS Jazzy](https://img.shields.io/badge/ros2-jazzy-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/rag_ros/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/rag_ros/actions/workflows/build.yml) |
-| semantic_navigation | ![ROS Jazzy](https://img.shields.io/badge/ros2-rolling-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/semantic_navigation/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/semantic_navigation/actions/workflows/build.yml) |
+| semantic_navigation | ![ROS Rolling](https://img.shields.io/badge/ros2-rolling-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/semantic_navigation/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/semantic_navigation/actions/workflows/build.yml) |
 | ros_perception_pipeline | ![ROS Jazzy](https://img.shields.io/badge/ros2-jazzy-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/ros_perception_pipeline/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/ros_perception_pipeline/actions/workflows/build.yml) |
 | depth_anything_v2_ros2 | ![ROS Jazzy](https://img.shields.io/badge/ros2-jazzy-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/depth_anything_v2_ros2/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/depth_anything_v2_ros2/actions/workflows/build.yml) |
 | ip_camera_ros2 | ![ROS Jazzy](https://img.shields.io/badge/ros2-jazzy-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/ip_camera_ros2/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/ip_camera_ros2/actions/workflows/build.yml) |
 | object_with_region | ![ROS Jazzy](https://img.shields.io/badge/ros2-jazzy-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/object_with_region/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/object_with_region/actions/workflows/build.yml) |
 | gnss_air530z_uros | ![ROS Jazzy](https://img.shields.io/badge/ros2-jazzy-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/gnss_air530z_uros/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/gnss_air530z_uros/actions/workflows/build.yml) |
 | imu_bmi160_uros | ![ROS Jazzy](https://img.shields.io/badge/ros2-jazzy-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/imu_bmi160_uros/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/imu_bmi160_uros/actions/workflows/build.yml) |
-| rasa_ros | ![ROS Jazzy](https://img.shields.io/badge/ros2-rolling-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/rasa_ros/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/rasa_ros/actions/workflows/build.yml) |
+| nemo_ros | ![ROS Jazzy](https://img.shields.io/badge/ros2-jazzy-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/nemo_ros/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/nemo_ros/actions/workflows/build.yml) |
+| rasa_ros | ![ROS Rolling](https://img.shields.io/badge/ros2-rolling-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/rasa_ros/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/rasa_ros/actions/workflows/build.yml) |
 | llm_interactions_msgs | ![ROS Jazzy](https://img.shields.io/badge/ros2-jazzy-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/llm_interactions_msgs/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/llm_interactions_msgs/actions/workflows/build.yml) |
