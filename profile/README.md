@@ -60,7 +60,7 @@ Join us in our mission to build smarter and more social robots!
 
 | Package | ROS | Build |
 |---------|-----|-------|
-| scitos2 | ![ROS Jazzy](https://img.shields.io/badge/ros2-jazzy-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/scitos2/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/scitos2/actions/workflows/build.yml) |
+| scitos2 | ![ROS Lyrical](https://img.shields.io/badge/ros2-lyrical-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/scitos2/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/scitos2/actions/workflows/build.yml) |
 | pioneer_ros2 | ![ROS Rolling](https://img.shields.io/badge/ros2-rolling-008000?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/pioneer_ros2/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/pioneer_ros2/actions/workflows/build.yml) |
 | dsr_ros | ![ROS Jazzy](https://img.shields.io/badge/ros2-jazzy-blue?logo=ros&logoColor=white) | [![Build](https://github.com/grupo-avispa/dsr_ros/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/dsr_ros/actions/workflows/build.yml) |
 | dsr_aal | - | [![Build](https://github.com/grupo-avispa/dsr_aal/actions/workflows/build.yml/badge.svg)](https://github.com/grupo-avispa/dsr_aal/actions/workflows/build.yml) |
